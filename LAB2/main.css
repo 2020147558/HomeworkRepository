@@ -31,7 +31,7 @@
     margin: 0; 
 }
 .Signup, .Login { 
-    background-color: yellow; 
+    background-color: green; 
     text-align: center; 
 }
 .Cancel { 
@@ -39,6 +39,6 @@
     text-align: center; 
 }
 .Signup_page { 
-    background-color: grey; 
+    background-color: blue; 
     text-align: center; 
 }
