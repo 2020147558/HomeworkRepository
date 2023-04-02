@@ -14,9 +14,11 @@
     border-top: 2px solid red;
     border-bottom: 2px solid red;
     text-decoration: none;
+    color: #000;
 }
 .Href {
     text-decoration: none;
+    color: #000;
 }
 .Content { 
     border-top: 2px solid black;
