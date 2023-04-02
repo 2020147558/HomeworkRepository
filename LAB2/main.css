@@ -12,9 +12,10 @@
 }
 .Button { 
     border-top: 2px solid red;
-    border-bottom: 2px solid red; 
+    border-bottom: 2px solid red;
+    text-decoration: none;
 }
-a {
+.Href {
     text-decoration: none;
 }
 .Content { 
