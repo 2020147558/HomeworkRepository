@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Welcome to INTERNET-PROGRAMMING SHOP</title>
+
+        <link rel = "stylesheet" type = "text/css" href = "main.css">
+    </head>
+
+    <body>
+        <header>
+            <div class = 'header'>
+                <h1>Welcome to INTERNET-PROGRAMMING SHOP</h1>
+                <nav>
+                    <ul>
+                        <li><a class = 'Button' href = 'login.html'>로그인</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <div class = 'Content'>
+            <form method = "get">
+            <p>회원 정보(필수)
+                <p>
+                    <label>유저 아이디:<input name = "UserID" type = "text" size = 30px placeholder="아이디를 입력하세요" required autocomplete="UserID" autofocus/></label>
+                </p>
+                <p>
+                    <label>비밀번호:<input name = "password" type = "text" size = 30px placeholder="비밀번호 입력하세요" required autocomplete="password" autofocus/></label>
+                </p>
+                <p>
+                    <label>비밀번호 확인:<input name = "password_confirm" type = "text" size = 30px placeholder="비밀번호 확인" required autocomplete="password_confirm" autofocus/></label>
+                </p>
+            </p>
+
+        <div class = "button">
+            <button type = "submit" class = "Login">로그인</button>
+            <button type = "button" class = "Signup_page" onclick = "window.location.href = 'signup.html'">회원 가입</button>
+        </div>
+        </form>
+
+        </div>
+    </body>
+</html>
