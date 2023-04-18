@@ -1,10 +1,20 @@
-.header { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: large; }
+.header { 
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: large; 
+}
 .header li { font-family: 'Times New Roman', Times, serif;
     color: black;
     display: inline; }
-.Button { border-top: 2px solid red;
-    border-bottom: 2px solid red; }
+.Button { 
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    text-decoration: none;
+    color: #000;
+}
+.Href {
+    text-decoration: none;
+    color: #000;
+}
 .Content { border-top: 2px solid black;
     border-bottom: 2px solid black; 
     height: 350px;
