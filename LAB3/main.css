@@ -54,7 +54,7 @@
     float: left; }
 img { margin: 0;
     transition: transform 2s; }
-img:hover{ transform: scale(4);
+img:hover{ transform: scale(2);
     transform-origin: 0 0; }
 .index_box { clear: left;
     border-bottom: 1px solid black; }
