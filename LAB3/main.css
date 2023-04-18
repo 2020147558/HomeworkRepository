@@ -40,8 +40,8 @@
     animation-duration: 1s; }
 
 @keyframes run {
-    100% { right: -510px;}
-    0% { right: 0;} }
+    0% { right: -510px;}
+    100% { right: 0;} }
 .index_content { border-top: 2px solid black; 
     border-bottom: 2px solid black;
     width: 1020px;
